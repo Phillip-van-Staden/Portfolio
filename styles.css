@@ -66,11 +66,11 @@ header a {
 }
 section {
   min-height: 100vh;
-  padding: 10px;
+  padding: 60px;
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 30px;
 }
 section:nth-child(2n) {
   background-color: white;
@@ -343,3 +343,32 @@ form button:active {
   color: white;
 }
 
+.navbar {
+  position: fixed;      
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(20, 20, 20, 0.95); 
+  padding: 10px 20px;
+  z-index: 1000;        
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  display: none;
+}
+
+.navbar ul {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  list-style: none;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.navbar ul li a:hover {
+  color: #0077ff;
+}
