@@ -119,7 +119,7 @@ section:nth-child(2n) {
   display: flex;
   flex-direction: column;
   gap: 20px;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   text-align: left;
 }
 .section-content p {
@@ -173,7 +173,8 @@ section:nth-child(2n) {
   flex-direction: column;
   gap: 10px;
   text-align: left;
-  color:#cbd5e1
+  color:#cbd5e1;
+  font-size: 1.2rem;
 }
 .project-links {
   display: flex;
@@ -314,7 +315,7 @@ form button:active {
   margin: 20px 0;
   border-collapse: collapse;
   text-align: left;
-  font-size: 1rem;
+  font-size: 1.2rem;
   background-color: #141414;
   color: white;
 }
