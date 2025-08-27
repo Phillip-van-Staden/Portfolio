@@ -10,7 +10,7 @@ This is a personal portfolio website developed using simple HTML and CSS. It sho
 
 - Projects: Details of my projects, including a food ordering platform, a hunting farms platform, and a project management tool.
 
-Get in Touch: A contact form where users can reach out via email or connect through LinkedIn.
+- Get in Touch: A contact form where users can reach out via email or connect through LinkedIn.
 
 Features
 
