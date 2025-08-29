@@ -8,7 +8,7 @@ This is a personal portfolio website developed using simple HTML and CSS. It sho
 
 - Education: My academic background and ongoing education in Computer Science.
 
-- Projects: Details of my projects, including a food ordering platform, a hunting farms platform, and a project management tool.
+- Projects: Details of my projects, including a food ordering platform, a hunting farms platform, a project management tool, and more.
 
 - Get in Touch: A contact form where users can reach out via email or connect through LinkedIn.
 
