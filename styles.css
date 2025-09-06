@@ -173,7 +173,7 @@ section:nth-child(2n) {
   flex-direction: column;
   gap: 10px;
   text-align: left;
-  color: #cfdae7; /* #202327 for white */
+  color: #dde3eb; /* #202327 for white */
   font-size: 1.2em;
 }
 .project-links {
